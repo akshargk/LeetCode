@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/akshargk/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/akshargk/LeetCode/tree/master/0134-gas-station) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/akshargk/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
