@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/akshargk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/akshargk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akshargk/LeetCode/tree/master/0739-daily-temperatures) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshargk/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshargk/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshargk/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/akshargk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshargk/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akshargk/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshargk/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
