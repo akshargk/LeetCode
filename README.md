@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshargk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshargk/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/akshargk/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshargk/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akshargk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/akshargk/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshargk/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshargk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/akshargk/LeetCode/tree/master/0134-gas-station) |
 ## Design
 |  |
