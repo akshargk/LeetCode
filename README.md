@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshargk/LeetCode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/akshargk/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshargk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -96,9 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/akshargk/LeetCode/tree/master/0052-n-queens-ii) |
+| [0131-palindrome-partitioning](https://github.com/akshargk/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/akshargk/LeetCode/tree/master/0052-n-queens-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/akshargk/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
