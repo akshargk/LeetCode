@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshargk/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akshargk/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshargk/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshargk/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/akshargk/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshargk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/akshargk/LeetCode/tree/master/0496-next-greater-element-i) |
