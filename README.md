@@ -120,5 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/akshargk/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/akshargk/LeetCode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/akshargk/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
