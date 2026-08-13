@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshargk/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/akshargk/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/akshargk/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshargk/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/akshargk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/akshargk/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akshargk/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akshargk/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/akshargk/LeetCode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/akshargk/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshargk/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/akshargk/LeetCode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/akshargk/LeetCode/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/akshargk/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Database
