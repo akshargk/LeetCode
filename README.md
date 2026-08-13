@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/akshargk/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/akshargk/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshargk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/akshargk/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting
 |  |
 | ------- |
