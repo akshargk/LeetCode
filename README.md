@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akshargk/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/akshargk/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akshargk/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshargk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/akshargk/LeetCode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/akshargk/LeetCode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/akshargk/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshargk/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akshargk/LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshargk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/akshargk/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/akshargk/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
