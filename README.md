@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshargk/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshargk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshargk/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/akshargk/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/akshargk/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/akshargk/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akshargk/LeetCode/tree/master/0051-n-queens) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/akshargk/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/akshargk/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akshargk/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/akshargk/LeetCode/tree/master/0875-koko-eating-bananas) |
